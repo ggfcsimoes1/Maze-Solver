@@ -1,6 +1,3 @@
-#Gustavo Simoes numero 95588
-
-
 def eh_labirinto(maze):
  '''
  ARGUMENTO: LABIRINTO
